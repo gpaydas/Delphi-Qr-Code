@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.754,=C:\Users\GURKAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,=C:\Users\GURKAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.08.29 10:34:41.677,=C:\Users\GURKAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.08.29 10:34:59.169,D:\GitHub Proje\QRCode_Project\Delphi-Qr-Code\Sample\Unit1.dfm=C:\Users\GURKAN\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.08.29 10:34:59.169,D:\GitHub Proje\QRCode_Project\Delphi-Qr-Code\Sample\Unit1.pas=C:\Users\GURKAN\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018.08.29 10:35:01.147,D:\GitHub Proje\QRCode_Project\Delphi-Qr-Code\Sample\Project2.dproj=C:\Users\GURKAN\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2018.08.29 10:36:22.694,=D:\GitHub Proje\QRCode_Project\Delphi-Qr-Code\Sample\qrCode\DelphiZXIngQRCode.pas</Transaction>
+    <Transaction>2018.08.29 10:36:22.721,=D:\GitHub Proje\QRCode_Project\Delphi-Qr-Code\Sample\qrCode\untqrCode.pas</Transaction>
+  </Transactions>
+</BorlandProject>
